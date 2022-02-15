@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/rajalprasad/Dev/ChainShot/hardhat-project1/contracts/ModifyVariable.sol": {
+      "lastModificationDate": 1644887133654,
+      "contentHash": "6997aab9a8e4e0d38209ae227c517009",
+      "sourceName": "contracts/ModifyVariable.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "ModifyVariable"
+      ]
+    },
+    "/Users/rajalprasad/Dev/ChainShot/hardhat-project1/contracts/ModifyString.sol": {
+      "lastModificationDate": 1644887674262,
+      "contentHash": "5e0b288bb590a4a49e63912b72e4b65e",
+      "sourceName": "contracts/ModifyString.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "ModifyString"
+      ]
+    }
+  }
+}
